@@ -1,5 +1,6 @@
 # GenAI-LLM
-
+--
+### (Huggingface, Langchain, Gemini, ChatGPT)
 Welcome to **GenAI-LLM**! This repository houses multiple projects leveraging state-of-the-art large language models (LLMs) from Huggingface for various applications. Each sub-project is designed to provide specific functionalities with cutting-edge AI models like **Mistral 7B**, **Google Gemini 1.5**, and others. Below is an overview of the sub-repositories and their purposes.
 
 ---
