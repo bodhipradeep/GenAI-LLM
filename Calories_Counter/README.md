@@ -25,7 +25,7 @@ Upload an image of your **meal or snack**, and let an AI nutritionist tell you w
 | 🍩 Snacks | Test your donut and coffee calorie guesses |
 
 ---
-
+### Demo Screenshot
 ![Demo Screenshot](https://github.com/user-attachments/assets/4927cce7-0f1a-4240-90f7-0981f0c199af)
 ![Demo Screenshot](https://github.com/user-attachments/assets/06181b3e-717e-4929-bbe9-c19e8b1e4283)
 
