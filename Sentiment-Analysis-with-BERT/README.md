@@ -1,4 +1,4 @@
-# BERT Sentiment Analysis on Twitter Data
+# Twitter Sentiment Analysis using BERT
 
 This repository provides an **end‑to‑end notebook** for fine‑tuning a BERT model on a labelled Twitter‑sentiment dataset. Leveraging `🤗 Transformers`, `PyTorch`, and `scikit‑learn`, the notebook walks you through every step—from data cleaning to model evaluation and saving—so you can quickly reproduce or extend a production‑ready sentiment‑analysis pipeline.
 
