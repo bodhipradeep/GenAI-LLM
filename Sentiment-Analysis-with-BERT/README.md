@@ -43,7 +43,7 @@ eval_steps_per_second = 51.0
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 ```bash
 ├── bert_sentiment.ipynb   # End‑to‑end BERT fine‑tuning workflow
 ├── requirements.txt       # Python package list
