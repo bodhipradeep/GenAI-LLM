@@ -33,13 +33,13 @@ This repository provides an **end‑to‑end notebook** for fine‑tuning a BERT
 
 ## 📈 Sample Output
 
-***** Eval results *****
-epoch = 3
-eval_accuracy = 0.9012
-eval_loss = 0.2904
-eval_runtime = 0:00:18.43
-eval_samples_per_second = 815.4
-eval_steps_per_second = 51.0
+***** Eval results *****   
+epoch = 3   
+eval_accuracy = 0.9012   
+eval_loss = 0.2904   
+eval_runtime = 0:00:18.43   
+eval_samples_per_second = 815.4   
+eval_steps_per_second = 51.0   
 
 ---
 
