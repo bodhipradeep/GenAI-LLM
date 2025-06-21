@@ -3,6 +3,7 @@
 This repository provides an **end‑to‑end notebook** for fine‑tuning a BERT model on a labelled Twitter‑sentiment dataset. Leveraging `🤗 Transformers`, `PyTorch`, and `scikit‑learn`, the notebook walks you through every step—from data cleaning to model evaluation and saving—so you can quickly reproduce or extend a production‑ready sentiment‑analysis pipeline.
 
 > **Notebook**: [`bert_sentiment.ipynb`](bert_sentiment.ipynb)  
+> **Traind Model**: [Saved Traind Model Link](https://drive.google.com/drive/folders/1umKLrIgb8kWCyOU1oqx9T_R_ueq04qn0?usp=sharing)  
 > **Dataset Source**: [Kaggle – Twitter Sentiment Analysis](https://www.kaggle.com/datasets)  
 
 ---
